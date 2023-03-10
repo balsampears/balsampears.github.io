@@ -4,6 +4,7 @@ author: 阿星
 date: 2023-03-09
 category: jzypz
 layout: post
+sort: 1
 ---
 
 ## 所有角色获得方法
