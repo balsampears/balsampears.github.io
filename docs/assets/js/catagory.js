@@ -4,7 +4,7 @@
  //初始化目录结构
  function initCatalog(){
      let $ul = $('#sidebarContent')
-     let $template = $('<li class="chapter" data-level="1.1"><div style="padding: 10px 15px" onclick="upAndDown(event)"></div></li>')
+     let $template = $('<li class="chapter" data-level="1.1"><div style="padding: 10px 15px; font-weight: bolder" onclick="upAndDown(event)"></div></li>')
      let $lis = $('#sidebarContent > li')
 
      $.each($lis, function(index, li){
