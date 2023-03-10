@@ -1,2 +1,5 @@
-# balsampears.github.io
-博客
+---
+layout: home
+title: 阿星的游戏攻略整理
+permalink: /
+---
